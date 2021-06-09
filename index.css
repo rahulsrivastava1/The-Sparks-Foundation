@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Krona+One&display=swap");
+.contain {
+  margin: 0;
+  padding: 0;
+  height: 100vh !important;
+  width: 100vw !important;
+  background-color: black;
+  background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHCggIBwcGBwYGDQ0HBgYGBg8ICQYWFBEiIhURExMYHCggGBolGxMTITEhJSkrLi4uFx8zODMsNygtLisBCgoKBQUFDgUFDisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAKgBLAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAADAAECB//EABYQAQEBAAAAAAAAAAAAAAAAAAACAf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDydJAxJAkkCY1gJJAlqWgxJAkkC1jdYDXcuHcgSSYOSYBZJg5JgEkuCkuASSSOSSBZJI5JIEkkjkkgWSSOSSBJLIpLIEwmDwmA8ySQMSQJJAmNYCSQJaloMSQJJAtY3WA13Lh3IEkmDkmAWSYOSYBJLgpLgEkkjkkgWSSOSSBJJI5JIFkkjkkgSSyKSyBMJg8JgPMkkDEkCSQJjWAkkCWpaDEkCSQLWN1gNdy4dyBJJg5JgFkmDkmASS4KS4BJJI5JIFkkjkkgSSSOSSBZJI5JIEksiksgTCYPCYDzJJAxJAkkCY1gJJAlqWgxJAkkC1jdYDXcuHcgSSYOSYBZJg5JgEkuCkuASSSOSSBZJI5JIEkkjkkgWSSOSSBJLIpLIEwmDwmA8ySQMSQJJAmNYCSQJaloMSQJJAtY3WA13Lh3IEkmDkmAWSYOSYBJLgpLgEkkjkkgWSSOSSBJJI5JIFkkjkkgSSyKSyBMJg8JgPMkkDEkCSQJjWAkkCWpaDEkCSQLWN1gNdy4dyBJJg5JgFkmDkmASS4KS4BJJI5JIFkkjkkgSSSOSSBZJI5JIEksiksgTCYPCYDzJJAxJAkkCY1gJJAlqWgxJAkkC1jdYDXcuHcgSSYOSYBZJg5JgEkuCkuASSSOSSBZJI5JIEkkjkkgWSSOSSBJLIpLIEwmDwmA8ySQMSQJJAmNYCSQJaloMSQJJAtY3WA13Lh3IEkmDkmAWSYOSYBJLgpLgEkkjkkgWSSOSSBJJI5JIFkkjkkgSSyKSyBMJg8JgPMkkDEkCSQJjWAkkCWpaDEkCSQLWN1gNdy4dyBJJg5JgFkmDkmASS4KS4BJJI5JIFkkjkkgSSSOSSBZJI5JIEksiksgTCYPCYDzJJAxJAkkCY1gJJAlqWgxJAkkC1jdYDXcuHcgSSYOSYBZJg5JgEkuCkuASSSOSSBZJI5JIEkkjkkgWSSOSSBJLIpLIEwmDwmA8ySQMSQJJAmJAkkCWpAxJAkkC1iQNdykBJJiQFkmJASS4kBJJKQFkkpASSS1ASSSkBJLLEBcJjED/9k=");
+  background-position: center;
+  background-size: cover;
+  padding: 40px 80px;
+}
+.title {
+  padding: 25px;
+  text-align: center;
+  background-color: rgba(242, 208, 116, 0.5);
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+  font-family: "Krona One", sans-serif;
+}
+.footer {
+  background-color: rgba(242, 208, 116, 0.5);
+  font-size: 17px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  margin-top: 150px;
+  padding-top: 10px;
+  padding-bottom: 7px;
+}
+.buttons {
+  color: white;
+}
+.img-fluid {
+  width: 350px;
+}
+button {
+  position: relative;
+  display: inline-block;
+  padding: 12px 36px;
+  margin: 10px 0;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 18px;
+  letter-spacing: 2px;
+  border-radius: 8px;
+  background-color: #9dc5c3;
+  background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);
+}
+.institute-name {
+  color: #0ab7f7;
+}
+.table {
+  color: white;
+  font-size: 15px;
+}
+.table td,
+.table th {
+  vertical-align: middle;
+}
+.btn {
+  font-size: 15px;
+  color: white !important;
+}
+.users {
+  height: auto !important;
+  overflow-x: hidden !important;
+  width: 99.1vw !important;
+}
+.Transaction {
+  height: auto !important;
+  min-height: 100vh;
+  width: auto !important;
+  overflow-x: hidden !important;
+}
+.form {
+  color: white;
+}
+
