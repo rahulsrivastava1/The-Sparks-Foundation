@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Krona+One&display=swap");
+.contain {
+  margin: 0;
+  padding: 0;
+  height: 100vh !important;
+  width: 100vw !important;
+  background-color: black;
+  background-position: center;
+  background-size: cover;
+  padding: 10px 250px;
+}
+.title {
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color:black;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Krona One", sans-serif;
+}
+.img-fluid {
+    width: 200px;
+}
+.buttons {
+    color: blue;
+}
+button {
+    position: relative;
+    display: inline-block;
+    padding: 12px 36px;
+    margin: 10px 0;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+    border-radius: 8px;
+    background-color: blue;
+}
+.institute-name {
+    color: #0ab7f7;
+}
+.footer {
+    background-color: rgba(242, 208, 116, 0.5);
+    font-size: 14px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.table {
+  color: white;
+  font-size: 15px;
+}
+.table td,
+.table th {
+  vertical-align: middle;
+}
+.btn {
+  font-size: 15px;
+  color: white;
+  background-color:blue;
+}
+.users {
+  height: auto !important;
+  overflow-x: hidden !important;
+  width: 99.1vw !important;
+}
+.Transaction {
+  height: auto !important;
+  min-height: 100vh;
+  width: auto !important;
+  overflow-x: hidden !important;
+}
+.form {
+  color: white;
+}
